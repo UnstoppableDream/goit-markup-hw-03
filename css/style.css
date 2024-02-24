@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;
 }
 
-.img {
+img {
     display: block;
 }
 
@@ -28,7 +28,7 @@ a {
 
 .container {
     width: 1158px;
-    margin: 0 15px;
+    margin: 0 auto;
     padding: 0 15px;
 }
 
@@ -241,7 +241,7 @@ a {
 }
 
 .section-forth-list {
-    width: calc((100%-48px)/3);
+    width: calc((100% - 48px) / 3);
 }
 
 .app-container {
