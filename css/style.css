@@ -20,10 +20,14 @@ a {
 
 .header-page {
     border-bottom: 1px solid #e7e9fc;
+    width: 1440px;
+    height: 72px;
+    display: flex;
 }
 
 .container-page-header {
     display: flex;
+    justify-content: space-between;
 }
 
 .container {
@@ -197,10 +201,7 @@ a {
 }
 
 .people-container {
-    padding-left: 16px;
-    padding-top: 32px;
-    padding-bottom: 32px;
-    padding-right: 16px;
+    padding: 32px 0;
 }
 
 .section-third-tone {
@@ -266,7 +267,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-bottom: 0 0 8px 0;
+    margin-bottom: 8px;
 }
 
 .footer-page {
