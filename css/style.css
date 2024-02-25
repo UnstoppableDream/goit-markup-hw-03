@@ -201,10 +201,7 @@ a {
 }
 
 .people-container {
-    padding-top: 32px; 
-    padding-bottom: 32px; 
-    padding-left: 0; 
-    padding-right: 0;
+    padding: 32px 0;
 }
 
 .section-third-tone {
